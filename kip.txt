@@ -1,0 +1,70 @@
+5
+Zahra Hussain
+Lahore
+03008797654
+zahra@nu.edu.pk
+FAST NUCES
+CS
+P
+ Assistant Professor
+PF,OOP,DSA
+444
+175000
+2
+6
+ doctorate
+Ambreen Amjad
+Lahore
+03338797654
+ambreen@nu.edu.pk
+PU
+CS
+V
+ Lecturer
+SE,AI,DS,OS
+4444
+2000
+1
+4
+ Masters
+Usama
+Lahore
+030900000
+usama@nu.edu.pk
+FAST
+CS
+V
+ Professor
+PF,OOP,SE
+342
+30000
+4
+6
+ PHD
+ARIF
+LHR
+0317474477
+arif@nu.edu.pk
+SKANS
+DS
+P
+ Associate Professor
+AI,OS,DE
+423
+114000
+1
+1
+ MASTERS
+Burhan watoo
+0317171777
+burhan@nu.edu.pk
+MIT
+SE
+V
+ Professor
+EE,CAL,RO
+233
+3000
+2
+4
+ DOCTORATE
